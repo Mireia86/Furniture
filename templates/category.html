@@ -1,0 +1,14 @@
+
+<div class="categ row">
+<div class="col-md-2"></div>
+<div class="col-md-8">
+	<h1>{{line.name}}</h1>
+	<p>{{line.description}}</p>
+	
+	<div class="row">
+	    <models-directive ng-repeat="model in line.models"></models-directive>
+	</div>
+	
+</div>
+<div class="col-md-2"></div>	    
+</div>
