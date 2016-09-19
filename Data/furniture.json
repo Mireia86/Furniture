@@ -1,0 +1,57 @@
+[
+  {
+    "id":1,"name": "Chair",
+    "image":"http://static1.dekodirect.com/3203-home_default/silla-ron-polipropileno.jpg",
+    "category": "chair",
+    "price": "25$"
+  },
+  {
+    "id":2,
+    "name": "Colours chair",
+    "image":"http://www.solucionesparaoficinas.co/923-home_default/juego-mesa-y-sillas-karla-sillas-y-mesa-para-cafeteria-.jpg",
+    "category": "chair",
+    "price": "25$"
+  },
+  {
+    "id":3,
+    "name": "Egg chair",
+    "image":"http://coferstudiostore.com/804-home_default/silla-mib.jpg",
+    "category": "chair",
+    "price": "25$"
+  },
+  {
+    "id":4,
+    "name": "Nirvana",
+    "image":"http://www.indiehoy.com/wp-content/uploads/2016/03/nirvana.jpg",
+    "decade":1990,
+    "songs":["Smells like teen Spirit","Lithium"]
+  },
+  {
+    "id":5,
+    "name": "Kinks",
+    "image":"http://i.dailymail.co.uk/i/pix/2014/10/24/1414109764217_wps_36_The_Kinks_Dave_Davies_Mic.jpg",
+    "decade":1960,
+    "songs":["Waterloo Sunset","Village Green Preservation Society"]
+  },
+  {
+    "id":6,
+    "name": "The Who",
+    "image":"http://assets.rollingstone.com/assets/2014/article/the-who-record-be-lucky-their-first-new-song-in-eight-years-20140925/169785/large_rect/1411659364/1401x788-154421126.jpg",
+    "decade":1960,
+    "songs":["My Generation","Baba O'Riley"]
+  },
+  {
+    "id":7,
+    "name": "Green Day",
+    "image":"http://qsrock.com/wp-content/uploads/2016/05/green-day.jpg",
+    "decade":1990,
+    "songs":["BasketCase","BurnOut"]
+  },
+  {
+    "id":8,
+    "name": "Iron Maiden",
+    "image":"http://img.thesun.co.uk/aidemitlum/archive/02738/ironmaiden_land8_2738052a.jpg",
+    "decade":1980,
+    "songs":["Fear of the Dark","The Trooper"]
+  }
+]

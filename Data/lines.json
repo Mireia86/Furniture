@@ -1,0 +1,86 @@
+[
+  {
+    "id":1,
+    "name": "Chairs",
+    "image":"img/categoria1.jpg",
+    "description":"Pellentesque vulputate, nulla at suscipit tincidunt, ipsum tortor molestie mi, vel fringilla nunc arcu tempor elit. Sed nisl nibh, tincidunt vel commodo vitae, maximus nec velit. Curabitur sit amet ipsum ac eros iaculis feugiat in in mauris. Suspendisse ac egestas purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla lobortis hendrerit felis in dignissim. Duis dapibus venenatis blandit. Proin dolor lorem, venenatis eget ex ac, placerat aliquet ante.",
+    "text":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "models": [
+    {"ref": "Chair01","imgref": "img/gale1.jpg"},
+    {"ref": "Chair02","imgref": "img/gale2.jpg"},
+    {"ref": "Chair03","imgref": "img/gale1.jpg"},
+    {"ref": "Chair04","imgref": "img/gale2.jpg"},
+    {"ref": "Chair05","imgref": "img/gale1.jpg"},
+    {"ref": "Chair06","imgref": "img/gale2.jpg"},
+    {"ref": "Chair07","imgref": "img/gale1.jpg"},
+    {"ref": "Chair08","imgref": "img/gale2.jpg"},
+    {"ref": "Chair09","imgref": "img/gale1.jpg"},
+    {"ref": "Chair10","imgref": "img/gale2.jpg"},
+    {"ref": "Chair11","imgref": "img/gale1.jpg"},
+    {"ref": "Chair12","imgref": "img/gale2.jpg"}
+    ]
+  },
+  {
+    "id":2,
+    "name": "Tables",
+    "image":"img/categoria2.jpg",
+    "description":"Pellentesque vulputate, nulla at suscipit tincidunt, ipsum tortor molestie mi, vel fringilla nunc arcu tempor elit. Sed nisl nibh, tincidunt vel commodo vitae, maximus nec velit. Curabitur sit amet ipsum ac eros iaculis feugiat in in mauris. Suspendisse ac egestas purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla lobortis hendrerit felis in dignissim. Duis dapibus venenatis blandit. Proin dolor lorem, venenatis eget ex ac, placerat aliquet ante.",
+    "text":"Aenean auctor nulla quis augue dictum, sed sagittis odio varius. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "models": [
+    {"ref": "Table1","imgref": "img/gale2.jpg"},
+    {"ref": "Table2","imgref": "img/gale1.jpg"},
+    {"ref": "Table3","imgref": "img/gale2.jpg"},
+    {"ref": "Table4","imgref": "img/gale1.jpg"},
+    {"ref": "Table5","imgref": "img/gale2.jpg"},
+    {"ref": "Table6","imgref": "img/gale1.jpg"},
+    {"ref": "Table7","imgref": "img/gale2.jpg"},
+    {"ref": "Table8","imgref": "img/gale1.jpg"},
+    {"ref": "Table9","imgref": "img/gale2.jpg"},
+    {"ref": "Table10","imgref": "img/gale1.jpg"},
+    {"ref": "Table11","imgref": "img/gale2.jpg"},
+    {"ref": "Table22","imgref": "img/gale1.jpg"}
+    ]
+  },
+  {
+    "id":3,
+    "name": "Desks",
+    "image":"img/categoria3.jpg",
+    "description":"Pellentesque vulputate, nulla at suscipit tincidunt, ipsum tortor molestie mi, vel fringilla nunc arcu tempor elit. Sed nisl nibh, tincidunt vel commodo vitae, maximus nec velit. Curabitur sit amet ipsum ac eros iaculis feugiat in in mauris. Suspendisse ac egestas purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla lobortis hendrerit felis in dignissim. Duis dapibus venenatis blandit. Proin dolor lorem, venenatis eget ex ac, placerat aliquet ante.",
+    "text":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "models": [
+    {"ref": "Desk01","imgref": "img/gale1.jpg"},
+    {"ref": "Desk02","imgref": "img/gale2.jpg"},
+    {"ref": "Desk03","imgref": "img/gale1.jpg"},
+    {"ref": "Desk04","imgref": "img/gale2.jpg"},
+    {"ref": "Desk05","imgref": "img/gale1.jpg"},
+    {"ref": "Desk06","imgref": "img/gale2.jpg"},
+    {"ref": "Desk07","imgref": "img/gale1.jpg"},
+    {"ref": "Desk08","imgref": "img/gale2.jpg"},
+    {"ref": "Desk09","imgref": "img/gale1.jpg"},
+    {"ref": "Desk10","imgref": "img/gale2.jpg"},
+    {"ref": "Desk11","imgref": "img/gale1.jpg"},
+    {"ref": "Desk12","imgref": "img/gale2.jpg"}
+    ]
+  },
+  {
+    "id":4,
+    "name": "Sofas",
+    "image": "img/categoria4.jpg",
+    "description":"Pellentesque vulputate, nulla at suscipit tincidunt, ipsum tortor molestie mi, vel fringilla nunc arcu tempor elit. Sed nisl nibh, tincidunt vel commodo vitae, maximus nec velit. Curabitur sit amet ipsum ac eros iaculis feugiat in in mauris. Suspendisse ac egestas purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla lobortis hendrerit felis in dignissim. Duis dapibus venenatis blandit. Proin dolor lorem, venenatis eget ex ac, placerat aliquet ante.",
+    "text":"Aenean auctor nulla quis augue dictum, sed sagittis odio varius.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "models": [
+    {"ref": "Sofa01","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa02","imgref": "img/gale2.jpg"},
+    {"ref": "Sofa03","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa04","imgref": "img/gale2.jpg"},
+    {"ref": "Sofa05","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa06","imgref": "img/gale2.jpg"},
+    {"ref": "Sofa07","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa08","imgref": "img/gale2.jpg"},
+    {"ref": "Sofa09","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa10","imgref": "img/gale2.jpg"},
+    {"ref": "Sofa11","imgref": "img/gale1.jpg"},
+    {"ref": "Sofa12","imgref": "img/gale2.jpg"}
+    ]
+  }
+]
